@@ -15,7 +15,7 @@
 ## 🚀 Sobre mim  
 Sou um jovem de 19 anos que mora em Horizonte–CE.  
 Estudo Análise e Desenvolvimento de Sistemas, com foco em backend, especialmente **Java** e **Spring Boot**.  
-Também curto **games, rock/metal e animes**.
+Também curto **games, rock e animes**.
 
 ---
 
@@ -31,22 +31,27 @@ Também curto **games, rock/metal e animes**.
 
 ### 🔤 Linguagens & runtime
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs" height="50"/>
 </p>
 
 ### 🧩 Frameworks e Bibliotecas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,thymeleaf,express" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,thymeleaf" height="50"/>
 </p>
 
 ### 🧰 Ferramentas & Plataforma
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,gradle,docker,aws,netlify,postman,redis" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,docker,netlify,postman,figma,particles" height="50"/>
+
+  <br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=emailjs" height="50"/>
 </p>
 
 ### ⚙️ DevOps & Utilitários
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,npm,yarn,lombok,jira,trello" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,lombok" height="50"/>
 </p>
 
 ---
