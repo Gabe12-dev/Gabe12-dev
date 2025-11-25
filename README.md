@@ -99,7 +99,6 @@ Também curto **games, rock e animes**.
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabe12-dev&show_icons=true&theme=dark&border_radius=10&title_color=FFD54F&icon_color=FFD54F&bg_color=000000"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe12-dev&layout=compact&theme=dark&border_radius=10&bg_color=000000"/>
 </p>
 
