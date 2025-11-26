@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Sobre mim  
-Sou um jovem de 19 anos que mora em Horizonte–CE.  
+Sou um jovem de 19 anos que mora em Fortaleza–CE.  
 Estudo Análise e Desenvolvimento de Sistemas, com foco em backend, especialmente **Java** e **Spring Boot**.  
 Também curto **games, rock e animes**.
 
